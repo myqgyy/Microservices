@@ -12,3 +12,6 @@
 
 ESB和SOA到底是什么？
 https://zato.io/docs/intro/esb-soa-cn.html
+
+基于微服务的软件架构模式
+http://dockone.io/article/877
